@@ -1,3 +1,3 @@
-module github.com/diego3/ecommerce
+module github.com/diego3/ecommerce/lib
 
 go 1.16
