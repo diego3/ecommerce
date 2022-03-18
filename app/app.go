@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/diego3/ecommerce/lib"
+)
 
 func main() {
-	fmt.Println(Hello("DIego"))
+	fmt.Println(lib.Hello("DIego"))
 }
